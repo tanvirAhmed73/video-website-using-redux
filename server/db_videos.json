@@ -1,0 +1,92 @@
+{
+  "videos": [
+    {
+      "title": "Mastering JavaScript ES6 Features",
+      "imageUrl": "https://via.placeholder.com/150",
+      "description": "Dive deep into JavaScript ES6 features and enhance your coding skills.",
+      "views": 15324,
+      "uploadingMonth": "January",
+      "uploadingYear": 2023
+    },
+    {
+      "title": "Redux for Beginners: State Management Simplified",
+      "imageUrl": "https://via.placeholder.com/150",
+      "description": "Learn the basics of Redux and how to manage state efficiently in your React apps.",
+      "views": 10258,
+      "uploadingMonth": "February",
+      "uploadingYear": 2023
+    },
+    {
+      "title": "Understanding JavaScript Promises",
+      "imageUrl": "https://via.placeholder.com/150",
+      "description": "A comprehensive guide to understanding and using JavaScript promises in asynchronous code.",
+      "views": 8941,
+      "uploadingMonth": "March",
+      "uploadingYear": 2023
+    },
+    {
+      "title": "Advanced React Hooks: Beyond useState and useEffect",
+      "imageUrl": "https://via.placeholder.com/150",
+      "description": "Explore advanced React hooks that will take your React applications to the next level.",
+      "views": 7324,
+      "uploadingMonth": "April",
+      "uploadingYear": 2023
+    },
+    {
+      "title": "Building Scalable Applications with Next.js",
+      "imageUrl": "https://via.placeholder.com/150",
+      "description": "Learn how to build and scale applications efficiently using Next.js.",
+      "views": 18432,
+      "uploadingMonth": "May",
+      "uploadingYear": 2023
+    },
+    {
+      "title": "Mastering TypeScript for Large-Scale Projects",
+      "imageUrl": "https://via.placeholder.com/150",
+      "description": "Get started with TypeScript and learn how it can help you build large-scale, maintainable projects.",
+      "views": 11234,
+      "uploadingMonth": "June",
+      "uploadingYear": 2023
+    },
+    {
+      "title": "Optimizing Performance in React Applications",
+      "imageUrl": "https://via.placeholder.com/150",
+      "description": "Discover techniques to optimize the performance of your React applications.",
+      "views": 14567,
+      "uploadingMonth": "July",
+      "uploadingYear": 2023
+    },
+    {
+      "title": "The Power of Redux Toolkit",
+      "imageUrl": "https://via.placeholder.com/150",
+      "description": "An in-depth look at Redux Toolkit and how it simplifies Redux development.",
+      "views": 9572,
+      "uploadingMonth": "August",
+      "uploadingYear": 2023
+    },
+    {
+      "title": "JavaScript Debugging Tips and Tricks",
+      "imageUrl": "https://via.placeholder.com/150",
+      "description": "Learn essential debugging techniques to fix JavaScript bugs quickly.",
+      "views": 12678,
+      "uploadingMonth": "September",
+      "uploadingYear": 2023
+    },
+    {
+      "title": "Full-Stack Development with Node.js and Express",
+      "imageUrl": "https://via.placeholder.com/150",
+      "description": "Master full-stack development by building robust applications with Node.js and Express.",
+      "views": 16543,
+      "uploadingMonth": "October",
+      "uploadingYear": 2023
+    }
+  ],
+  "tags": [
+    { "id": 1, "name": "redux" },
+    { "id": 2, "name": "javascript" },
+    { "id": 3, "name": "tailwind css" },
+    { "id": 4, "name": "next.js" },
+    { "id": 5, "name": "react.js" },
+    { "id": 6, "name": "TypeScript" }
+  ]
+}
